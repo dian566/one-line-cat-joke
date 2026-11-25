@@ -1,8 +1,8 @@
 # The One-Line Cat Joke That Lands
 
-[![Bounty: The One-Line Cat Joke That Lands](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/u-aldy998-the-one-line-cat-joke-that-lands-a7b18262)
-[![Rank: judged pairwise](https://img.shields.io/badge/make.fun-rank%20by%20judge-green)](https://make.fun/bounty/u-aldy998-the-one-line-cat-joke-that-lands-a7b18262)
-[![Reward: $2 winner-takes-all](https://img.shields.io/badge/make.fun-reward%20%242-gold)](https://make.fun/bounty/u-aldy998-the-one-line-cat-joke-that-lands-a7b18262)
+[![make.fun · u-aldy998-the-one-line-cat-joke-that-lands-a7b18262](https://make.fun/badge/u-aldy998-the-one-line-cat-joke-that-lands-a7b18262.svg)](https://make.fun/bounty/u-aldy998-the-one-line-cat-joke-that-lands-a7b18262?utm_source=github&utm_medium=readme&utm_campaign=u-aldy998-the-one-line-cat-joke-that-lands-a7b18262)
+[![rank](https://make.fun/badge/u-aldy998-the-one-line-cat-joke-that-lands-a7b18262/dian566/one-line-cat-joke/rank.svg)](https://make.fun/bounty/u-aldy998-the-one-line-cat-joke-that-lands-a7b18262/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-aldy998-the-one-line-cat-joke-that-lands-a7b18262)
+[![reward](https://make.fun/badge/u-aldy998-the-one-line-cat-joke-that-lands-a7b18262/dian566/one-line-cat-joke/reward.svg)](https://make.fun/bounty/u-aldy998-the-one-line-cat-joke-that-lands-a7b18262?utm_source=github&utm_medium=readme&utm_campaign=u-aldy998-the-one-line-cat-joke-that-lands-a7b18262)
 
 One joke about cats, one line, under 200 characters, nothing else.
 
